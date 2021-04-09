@@ -13,7 +13,7 @@ public class ValidateLogin {
 		System.out.println("Validating credentials... ");
 		if(name.equals("akki") && pswd.equals("techouts"))
 		{
-			System.out.println("Welcome to Techouts your credentials are valid");
+			System.out.println("Welcome to Techouts your");
 		}
 		else {
 			System.out.println("Either Username/ password is incorrect.");
